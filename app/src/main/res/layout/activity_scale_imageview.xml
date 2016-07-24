@@ -3,10 +3,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
-
+<!---->fea73d
     <com.example.yang.androiddemo.view.ScaleImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:background="#eaeaea"
         android:src="@mipmap/liutao" />
 
 </LinearLayout>
