@@ -9,11 +9,11 @@
         android:orientation="vertical">
 
         <TextView
-            android:id="@+id/test"
+            android:id="@+id/scale_imageview"
             style="@style/MainPageTextStyle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="test" />
+            android:text="ScaleImage" />
 
         <TextView
             android:id="@+id/test2"
